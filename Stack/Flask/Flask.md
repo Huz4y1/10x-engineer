@@ -8,6 +8,8 @@ tags: [flask, stack, moc, python, web, backend]
 
 Stack index: [[Stack]] · Language: [[Python]] · Look anything up: **[[Flask reference]]**
 
+> **Want it without the libraries?** [[Flask SQLite stack]] is the same framework with plain `sqlite3`, hand-written CSS and no SQLAlchemy — plus two complete tested projects: [[Flask SQLite - notes app]] and [[Flask SQLite - book tracker]].
+
 ---
 
 ## What it is, in one picture
@@ -47,6 +49,7 @@ That's every Flask app. The guides below take each box in turn.
 | 8a | **[[Flask - project structure and blueprints]]** | The app factory, splitting into files, config and secrets |
 | 8b | **[[Flask - deploying it]]** | Gunicorn, Docker, Postgres, going live safely |
 | ★ | **[[Flask - full project walkthrough]]** | **A complete task tracker using all of the above — tested code, every file** |
+| ★ | **[[Flask SQLite stack]]** | **The no-libraries version: plain `sqlite3`, plain CSS — with [[Flask SQLite - notes app\|two]] [[Flask SQLite - book tracker\|projects]]** |
 
 > **New to Flask?** Read 1–4, then build the walkthrough. Come back to 5–8 as you need them.
 

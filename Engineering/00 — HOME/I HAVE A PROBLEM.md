@@ -127,6 +127,11 @@ df -h && free -h              # am I out of disk or memory
 | Store files in a lake | [[Object storage]] — [[SeaweedFS]] (local) · [[ADLS Gen2]] (Azure) · [[AWS S3]] (AWS) |
 | **Set up a PostgreSQL database** | **[[PostgreSQL]]** — local, [[Azure Database for PostgreSQL]], [[AWS RDS for PostgreSQL]] |
 | Use pgAdmin | [[pgAdmin 4]] |
+| **Build a website with Python, start to finish** | **[[Flask SQLite stack]]** — then [[Flask SQLite - notes app]] |
+| Add log-ins to a site | [[Flask SQLite - notes app]] · [[Flask - user accounts and login]] |
+| Use a database with no server to install | [[Flask SQLite stack]] (SQLite) |
+| Join tables, count and average them | [[Flask SQLite - book tracker]] · [[SQL fundamentals]] |
+| Split a Flask app into files | [[Flask SQLite - book tracker]] · [[Flask - project structure and blueprints]] |
 | Pick the right column type | [[PostgreSQL data types]] |
 | Insert-or-update (upsert) in Postgres | [[PostgreSQL SQL]] |
 | Connect to Postgres from Python | [[PostgreSQL with SQLAlchemy]] |

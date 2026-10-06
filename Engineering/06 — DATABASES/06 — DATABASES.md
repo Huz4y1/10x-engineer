@@ -60,6 +60,10 @@ Home: [[ULTIMATE ENGINEER]] · Roadmap: [[THE ULTIMATE ENGINEER ROADMAP]]
 | Azure | **[[ADLS Gen2]]** |
 | Your laptop / WSL | **[[SeaweedFS]]** · **[[Using SeaweedFS]]** |
 
+## SQLite — the database that is just a file
+
+No server, no install, built into Python. Best for one-machine apps, prototypes and tools: **[[Flask SQLite stack]]**, with worked SQL in **[[Flask SQLite - book tracker]]**.
+
 ## SQL
 [[SQL]] (basics) · [[SQL fundamentals]] (deep — window functions, execution order, query plans, indexes)
 

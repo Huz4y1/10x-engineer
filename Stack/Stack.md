@@ -16,6 +16,7 @@ Home: [[The 10x Engineer]] · Knowledge base: [[ULTIMATE ENGINEER]]
 |---|---|
 | **Web app** | [[Primary Web App Stack]] |
 | **Python web app** | [[Flask]] — Flask + SQL + Bulma, with a full tested walkthrough |
+| **Python web app, plain** | [[Flask SQLite stack]] — Flask + HTML + CSS + SQLite + Jinja2, no libraries, two full projects |
 | **Native app** | [[Primary Native App Stack]] |
 | **Data / ML** | [[Data Engineering]] — the curated path |
 | **Local, no cloud** | [[Running the whole stack locally]] |
@@ -43,7 +44,7 @@ Home: [[The 10x Engineer]] · Knowledge base: [[ULTIMATE ENGINEER]]
 |---|---|
 | **Frontend** | [[NextJs TypeScript]] · [[Expo]] · [[Streamlit]] · [[Django]] · [[Flask]] · [[Tailwindcss]] · [[Flask - styling with Bulma\|Bulma]] |
 | **Backend / API** | [[FastAPI reference]] · [[Actix Web]] · [[Django]] · [[Flask]] |
-| **Database** | [[PostgreSQL]] · [[pgAdmin 4]] · [[Azure Database for PostgreSQL]] · [[AWS RDS for PostgreSQL]] · [[Azure SQL Database]] · [[Supabase]] · [[DuckDB]] |
+| **Database** | [[PostgreSQL]] · [[Flask SQLite stack\|SQLite]] · [[pgAdmin 4]] · [[Azure Database for PostgreSQL]] · [[AWS RDS for PostgreSQL]] · [[Azure SQL Database]] · [[Supabase]] · [[DuckDB]] |
 | **Object storage** | [[Object storage]] · [[SeaweedFS]] · [[ADLS Gen2]] · [[AWS S3]] |
 | **Streaming** | [[Kafka]] · [[MQTT]] |
 | **Processing** | [[PySpark reference]] · [[Databricks and Delta Lake]] · [[Polars]] |
