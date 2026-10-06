@@ -1,0 +1,3 @@
+- “Prices will spike in 12 hours”
+- “Your usual station just dropped”
+- “Nearby station undercut competitors”

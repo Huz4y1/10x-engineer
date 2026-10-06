@@ -1,0 +1,12 @@
+---
+Status: In progress
+---
+- displays QR code scanner for bin
+- picks up the code and validates there and then
+- if validation is successful then move onto wrapper barcode scanner
+- screen displays barcode scanner for wrapper
+- picks up barcode and converts into digits
+- digits get sent to backend where it validates and checks against database
+- if not in database it checks digits against the open food api and saves the successful result in barcode table in database
+- user greenpoints count goes up by 1
+- the new greenpoints count is rendered from database to the blured card on main menu
