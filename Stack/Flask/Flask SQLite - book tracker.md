@@ -1438,4 +1438,4 @@ Deeper on all of it: [[SQL fundamentals]] · [[SQL]]
 
 ## Related
 
-[[Flask SQLite stack]] · [[Flask SQLite - notes app]] · [[Flask]] · [[Flask reference]] · [[Flask - project structure and blueprints]] · [[Flask - building a JSON API]] · [[Flask - deploying it]] · [[SQL]] · [[SQL fundamentals]] · [[PostgreSQL]] · [[PostgreSQL SQL]] · [[HTML]] · [[CSS]] · [[Python]] · [[pytest]] · [[Security in practice]]
+[[Flask SQLite stack]] · [[Flask SQLite - showing data on the page]] · [[Flask SQLite - notes app]] · [[Flask]] · [[Flask reference]] · [[Flask - project structure and blueprints]] · [[Flask - building a JSON API]] · [[Flask - deploying it]] · [[SQL]] · [[SQL fundamentals]] · [[PostgreSQL]] · [[PostgreSQL SQL]] · [[HTML]] · [[CSS]] · [[Python]] · [[pytest]] · [[Security in practice]]

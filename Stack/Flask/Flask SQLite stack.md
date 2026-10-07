@@ -20,8 +20,9 @@ Read the stack page (this one), then build a project. They're complete — every
 |---|---|---|
 | 1 | **[[Flask SQLite - notes app]]** | One file. Accounts, log in, forms, a table of rows, create/edit/delete, search, sort, and the security bits — CSRF, hashed passwords, "you can only see your own stuff" |
 | 2 | **[[Flask SQLite - book tracker]]** | A proper package. Blueprints, an app factory, JOINs across four tables, averages and counts, pagination, insert-or-update, and a JSON endpoint |
+| ★ | **[[Flask SQLite - showing data on the page]]** | **The cookbook.** 20 worked examples of getting rows onto a page: NULLs, money, dates, 0/1 flags, grouping, totals, sorting, highlighting, JSON — each with its real output |
 
-Project 1 first, even if it looks small. Project 2 assumes you've seen it.
+Project 1 first, even if it looks small. Project 2 assumes you've seen it. **[[Flask SQLite - showing data on the page]]** is the one to keep open while you build — it answers "how do I show *this* on the page?" twenty different ways.
 
 ---
 

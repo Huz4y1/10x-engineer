@@ -8,7 +8,7 @@ tags: [flask, stack, moc, python, web, backend]
 
 Stack index: [[Stack]] · Language: [[Python]] · Look anything up: **[[Flask reference]]**
 
-> **Want it without the libraries?** [[Flask SQLite stack]] is the same framework with plain `sqlite3`, hand-written CSS and no SQLAlchemy — plus two complete tested projects: [[Flask SQLite - notes app]] and [[Flask SQLite - book tracker]].
+> **Want it without the libraries?** [[Flask SQLite stack]] is the same framework with plain `sqlite3`, hand-written CSS and no SQLAlchemy — plus two complete tested projects: [[Flask SQLite - notes app]] and [[Flask SQLite - book tracker]], and a cookbook of [[Flask SQLite - showing data on the page|20 ways to show data on a page]].
 
 ---
 

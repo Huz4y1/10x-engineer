@@ -128,6 +128,9 @@ df -h && free -h              # am I out of disk or memory
 | **Set up a PostgreSQL database** | **[[PostgreSQL]]** — local, [[Azure Database for PostgreSQL]], [[AWS RDS for PostgreSQL]] |
 | Use pgAdmin | [[pgAdmin 4]] |
 | **Build a website with Python, start to finish** | **[[Flask SQLite stack]]** — then [[Flask SQLite - notes app]] |
+| **Show database rows on an HTML page** | **[[Flask SQLite - showing data on the page]]** |
+| Format money, dates or NULLs on a page | [[Flask SQLite - showing data on the page]] |
+| Make a page with real data faster | [[Flask SQLite - showing data on the page]] (the N+1 trap) |
 | Add log-ins to a site | [[Flask SQLite - notes app]] · [[Flask - user accounts and login]] |
 | Use a database with no server to install | [[Flask SQLite stack]] (SQLite) |
 | Join tables, count and average them | [[Flask SQLite - book tracker]] · [[SQL fundamentals]] |

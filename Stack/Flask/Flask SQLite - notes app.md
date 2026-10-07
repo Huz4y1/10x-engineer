@@ -1415,4 +1415,4 @@ Each of these is a small change to code that's already here:
 
 ## Related
 
-[[Flask SQLite stack]] · [[Flask SQLite - book tracker]] · [[Flask]] · [[Flask reference]] · [[Flask - forms and user input]] · [[Flask - user accounts and login]] · [[Flask - templates with Jinja]] · [[Flask - deploying it]] · [[HTML]] · [[Forms (HTML)]] · [[CSS]] · [[SQL]] · [[Python]] · [[pytest]] · [[Security in practice]]
+[[Flask SQLite stack]] · [[Flask SQLite - showing data on the page]] · [[Flask SQLite - book tracker]] · [[Flask]] · [[Flask reference]] · [[Flask - forms and user input]] · [[Flask - user accounts and login]] · [[Flask - templates with Jinja]] · [[Flask - deploying it]] · [[HTML]] · [[Forms (HTML)]] · [[CSS]] · [[SQL]] · [[Python]] · [[pytest]] · [[Security in practice]]
